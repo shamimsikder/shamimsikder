@@ -20,10 +20,10 @@
 <!----<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamimsikder&show_icons=true&locale=en&layout=compact" alt="shamimsikder" /></p>--->
 <!----<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimsikder&show_icons=true&locale=en" alt="shamimsikder" /></p>--->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=dark&show_icons=true" alt="shamimsikder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true" alt="shamimsikder" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamimsikder&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=shamimsikder&show_icons=true&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimsikder&theme=dark)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shamimsikder&theme=gotham)
 
 
