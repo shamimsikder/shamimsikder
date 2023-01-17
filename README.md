@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamim Sikder</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shamim+Sikder%F0%9F%91%8B;I'm+Always+Learning+New+Things;I+Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
 
 ## :mailbox: Connect with Me
 
