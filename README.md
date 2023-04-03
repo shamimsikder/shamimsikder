@@ -63,8 +63,6 @@
 </br>
 </div>
 <br />
-<!----<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamimsikder&show_icons=true&locale=en&layout=compact" alt="shamimsikder" /></p>--->
-<!----<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimsikder&show_icons=true&locale=en" alt="shamimsikder" /></p>--->
 
 <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
