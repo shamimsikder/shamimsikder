@@ -43,7 +43,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="40" width="52" alt="express logo"  />
-
+<img src="https://jwt.io/img/icon.svg" height="40" width="52" alt="jwt logo"  />
+  
 <br />
 <br />  
   
