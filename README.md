@@ -63,7 +63,6 @@
 </br>
 </div>
 <br />
-<p align="center"><img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimsikder&theme=gotham"/></p>
 <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shamimsikder&show_icons=true&theme=gotham"/>
